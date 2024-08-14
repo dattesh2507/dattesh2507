@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dattesh
-[
 
-![LinkedIn](https://www.linkedin.com/in/badaganchi-dattesh/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badaganchi-dattesh/)
 
 
 - 👀 I’m interested in Data analysis 
