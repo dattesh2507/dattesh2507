@@ -3,7 +3,7 @@
 
 
 ## Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Naveen-black?logo=github&style=flat-square&logoColor=White)](https://github.com/dattesh2507)
+[![GitHub](https://img.shields.io/badge/GitHub-Dattesh-black?logo=github&style=flat-square&logoColor=White)](https://github.com/dattesh2507)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badaganchi-dattesh/)
 
 
