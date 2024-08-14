@@ -1,4 +1,4 @@
-## <img src= "https://github.com/user-attachments/assets/7dff3d1d-08ae-4f43-98b4-61422559341b" width="60px"> Hello, I'm Dattesh 
+## <img src= "https://github.com/user-attachments/assets/7dff3d1d-08ae-4f43-98b4-61422559341b" width="80px"> Hello, I'm Dattesh 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dattesh2507&color=blueviolet)
 
@@ -51,6 +51,13 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dattesh2507&hide=TeX&layout=compact)
+
+
+
+### My Recent Certification :
+
+<a target="IBM Data Science Certificate" href="https://coursera.org/share/3e2ac347b2fd7014ee29eb3372892224"><img src="https://github.com/user-attachments/assets/1b61beab-5f16-4a3c-9022-9ccdd47e1a46" alt="Portfolio" width="500" height="220"></img></a>  
+
 
 <!---
 dattesh2507/dattesh2507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
