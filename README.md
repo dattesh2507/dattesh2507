@@ -1,5 +1,9 @@
-# 👋 Hello, I'm Dattesh
+# 👋 Hello, I'm Dattesh 
 ![Profile Views](https://komarev.com/ghpvc/?username=dattesh2507&color=blueviolet)
+
+
+## Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Naveen-black?logo=github&style=flat-square&logoColor=White)](https://github.com/dattesh2507)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badaganchi-dattesh/)
 
 
