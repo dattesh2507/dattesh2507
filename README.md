@@ -55,8 +55,7 @@
 
 ### My Recent Certification :
 
-<a target="IBM Data Science Certificate" href="https://coursera.org/share/3e2ac347b2fd7014ee29eb3372892224"><img src="https://github.com/user-attachments/assets/098fbc02-44a8-41c8-9bd3-0e95d70af34f" alt="Portfolio" width="500" height="300"></img></a>  
-<a target="Google Data Analytics" href="https://coursera.org/share/e338f81166b814d524116691718d4cbb"><img src="https://github.com/user-attachments/assets/bdd60ca4-f65e-4c71-b050-643ddc43b7c3" alt="Portfolio" width="500" height="300"></img></a>  
+<a target="IBM Data Science Certificate" href="https://coursera.org/share/3e2ac347b2fd7014ee29eb3372892224"><img src="https://github.com/user-attachments/assets/098fbc02-44a8-41c8-9bd3-0e95d70af34f" alt="Portfolio" width="500" height="300"></img></a>  <a target="Google Data Analytics" href="https://coursera.org/share/e338f81166b814d524116691718d4cbb"><img src="https://github.com/user-attachments/assets/bdd60ca4-f65e-4c71-b050-643ddc43b7c3" alt="Portfolio" width="500" height="300"></img></a>  
 
 <!---
 dattesh2507/dattesh2507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
