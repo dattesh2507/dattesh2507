@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Dattesh
 ![Profile Views](https://komarev.com/ghpvc/?username=dattesh2507&color=blueviolet)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badaganchi-dattesh/)
 
 
