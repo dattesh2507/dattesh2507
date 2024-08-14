@@ -6,6 +6,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Dattesh-black?logo=github&style=flat-square&logoColor=White)](https://github.com/dattesh2507)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badaganchi-dattesh/)
 
+<div align="center">
+<img width="500" height="200" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Welcome+To+Badaganchi+Dattesh's+GitHub+Profile!)](https://git.io/typing-svg)
+ 
+</div>
+<hr>
 
 - 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning Data analysis
