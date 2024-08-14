@@ -1,4 +1,4 @@
-## <img src= "https://github.com/user-attachments/assets/7dff3d1d-08ae-4f43-98b4-61422559341b" width="40px"> Hello, I'm Dattesh 
+## <img src= "https://github.com/user-attachments/assets/7dff3d1d-08ae-4f43-98b4-61422559341b" width="60px"> Hello, I'm Dattesh 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dattesh2507&color=blueviolet)
 
