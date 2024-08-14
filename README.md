@@ -47,6 +47,9 @@
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Excel-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dattesh2507&hide=TeX&layout=compact)
 
 <!---
 dattesh2507/dattesh2507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
